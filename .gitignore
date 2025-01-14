@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[oc]
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+*.egg-info
+*.egg
+
+# Virtual environments
+.venv/
+
+# Environment variables
+azure.env
+.env
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+*.out
+*.err
+
+# Streamlit
+.streamlit/
+*.stlite/
